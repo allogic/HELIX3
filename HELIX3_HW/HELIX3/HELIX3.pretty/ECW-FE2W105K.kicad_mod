@@ -1,0 +1,214 @@
+(footprint "ECW-FE2W105K"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "ECW-FE2W105K-1")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at 7.5 0 0)
+		(layer "F.SilkS")
+		(uuid "65a4674c-0027-4e9c-b885-a3637eacfc00")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ECW-FE2W105K"
+		(at 7.5 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2969dcb0-62ee-4a2a-9123-bd8a2ded1529")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6bf9bb7-6e26-415d-8855-3eff7e08bc48")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dc51d974-b56d-47cb-bb66-e7fe6cf3ecef")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.25 -3.5)
+		(end 16.25 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "098d8991-e877-4cbb-bcd7-2abf7aa1e729")
+	)
+	(fp_line
+		(start -1.25 3.5)
+		(end -1.25 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "afb79cbb-285a-4d63-bd47-1fa9f0409b7f")
+	)
+	(fp_line
+		(start 16.25 -3.5)
+		(end 16.25 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5005d12e-edf0-4f7a-8c7b-1f3fd4d4cb7e")
+	)
+	(fp_line
+		(start 16.25 3.5)
+		(end -1.25 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "106df99a-6d93-474f-8ca8-db6ab27c7714")
+	)
+	(fp_line
+		(start -2.25 -4.5)
+		(end 17.25 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "387a4d3e-b8ae-4c46-a4e1-67e1c9f7237f")
+	)
+	(fp_line
+		(start -2.25 4.5)
+		(end -2.25 -4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e6d85dac-c0bb-43d4-9022-272736dc3fc0")
+	)
+	(fp_line
+		(start 17.25 -4.5)
+		(end 17.25 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "248cd7f7-629b-4eab-b5b5-c22e38cc143a")
+	)
+	(fp_line
+		(start 17.25 4.5)
+		(end -2.25 4.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f03ea0ec-f8c8-4524-9867-8df1d9d0bf7d")
+	)
+	(fp_line
+		(start -1.25 -3.5)
+		(end 16.25 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e9bec2da-d7df-49b9-a46b-7b468fae1c96")
+	)
+	(fp_line
+		(start -1.25 3.5)
+		(end -1.25 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fde2b15e-67cb-4d0f-8642-34e7ba7f3703")
+	)
+	(fp_line
+		(start 16.25 -3.5)
+		(end 16.25 3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "84708174-0f62-40fa-bb00-3cd312787395")
+	)
+	(fp_line
+		(start 16.25 3.5)
+		(end -1.25 3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41365831-f1ad-4609-ada0-965f818632d2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.5 0 0)
+		(layer "F.Fab")
+		(uuid "e42cc682-5f83-40a1-88f3-b77d1475e405")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c15299fb-fc92-49e5-ae91-e2d28d665efc")
+	)
+	(pad "2" thru_hole circle
+		(at 15 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "225a55cc-204c-415d-bd5b-66a223319252")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../MODEL/ECW-FE2W105K.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

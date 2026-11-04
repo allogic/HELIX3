@@ -501,6 +501,312 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "HELIX3:74650094R"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 16.51 7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "74650094R"
+				(at 16.51 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "HELIX3:74650094R"
+				(at 16.51 -94.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/catalog/datasheet/74650094R.pdf"
+				(at 16.51 -194.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Description" "WP-THRBU REDCUBE Bush, THR_open height: 3.5mm, total height: 6mm, thread: M4 x 3mm, raster: 4.435mm, on Reel, with Polyimide Tape, REDCUBE THR;  M4, thr 3.0mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Height" "3.5"
+				(at 16.51 -394.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Name" "Wurth Elektronik"
+				(at 16.51 -494.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Manufacturer_Part_Number" "74650094R"
+				(at 16.51 -594.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Part Number" "710-74650094R"
+				(at 16.51 -694.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74650094R?qs=lBTPRtX1sU%2FRe8nM1nh3gg%3D%3D"
+				(at 16.51 -794.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 16.51 -894.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 16.51 -994.92 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(symbol "74650094R_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 15.24 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -2.54 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -5.08 180)
+					(length 5.08)
+					(name "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -7.62 180)
+					(length 5.08)
+					(name "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "HELIX3:LM5163QDDARQ1"
 			(pin_names
 				(offset 0.254)
@@ -1425,17 +1731,144 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "R_{ON}"
+		(exclude_from_sim no)
+		(at 76.454 119.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "3269caf9-0d64-4279-98bd-0dccef9fea63")
+	)
+	(text "C_{B}"
+		(exclude_from_sim no)
+		(at 159.512 110.236 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "38997e33-ddc8-4a34-a94a-e68827634d9f")
+	)
+	(text "R_{FB1}"
+		(exclude_from_sim no)
+		(at 191.008 101.346 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "3ec7617a-d763-49eb-8ebc-07979cabbbd8")
+	)
+	(text "R_{A}"
+		(exclude_from_sim no)
+		(at 150.622 103.632 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "49430085-a78d-403d-9245-bdb4ec325a67")
+	)
+	(text "R_{FB2} = (1.2V / (V_{OUT} - 1.2V)) * R_{FB1}"
+		(exclude_from_sim no)
+		(at 188.722 87.122 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "49fcc948-4d9b-4198-96b5-5ecc511bfba0")
+	)
+	(text "C_{A}"
+		(exclude_from_sim no)
+		(at 171.958 103.632 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "4b271ac8-3e69-49d7-af6d-6b1dfdd7af64")
+	)
+	(text "R_{FB1} || R_{FB2} = (R_{FB1} * 100) / (R_{FB2} + 100)\nt_{ON,NOM} = V_{OUT} / (V_{IN,NOM} * F_{SW})\n\n  C_{A} >= 10 / (F_{SW}(Hz) * (R_{FB1} || R_{FB2}))\nR_{A}C_{A} >= ((V_{IN,NOM} - V_{OUT}) * t_{ON,NOM}) / 20mV\n  C_{B} >= t_{TR,settling} / (3 * R_{FB1})"
+		(exclude_from_sim no)
+		(at 134.112 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(uuid "87e97e1d-2922-4c94-892e-b53e3a2c7365")
+	)
+	(text "F_{SW}(kHz) = (V_{OUT}(V) * 2500) / R_{ON}(kΩ)"
+		(exclude_from_sim no)
+		(at 53.086 119.126 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a63debf2-66f8-4e59-af7b-65e4e08df527")
+	)
+	(text "V_{OUT} = 1.2V * (1 + (R_{FB1} / R_{FB2}))"
+		(exclude_from_sim no)
+		(at 239.014 78.994 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "c5223c3a-aefd-4f60-858c-ec9d45dc757b")
+	)
+	(text "R_{FB2}"
+		(exclude_from_sim no)
+		(at 191.008 123.952 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "f9bf42f5-5f52-4156-aad7-5815dd102373")
+	)
 	(junction
-		(at 201.93 91.44)
+		(at 85.09 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1317ca97-135c-46fe-935d-a03b3087d3b1")
+		(uuid "1123f8c5-300f-4699-9928-68b2e2f4d608")
 	)
 	(junction
 		(at 140.97 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "13b994e9-4c68-4b27-88a9-e4802ae775ed")
+	)
+	(junction
+		(at 124.46 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "326a717c-aa2a-40ff-812a-92fd272e64b9")
 	)
 	(junction
 		(at 157.48 111.76)
@@ -1450,10 +1883,16 @@
 		(uuid "36f95e8d-3de1-4cae-9b0f-1b992fa7107f")
 	)
 	(junction
-		(at 85.09 91.44)
+		(at 147.32 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "400c1f31-7bcc-4f9e-b853-ecbcfdc9f83f")
+		(uuid "39e6caf8-d3e6-4dd9-90d0-934eea510802")
+	)
+	(junction
+		(at 92.71 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "48a196c0-6cca-4a90-ae08-8eb5c646ad2d")
 	)
 	(junction
 		(at 128.27 119.38)
@@ -1474,10 +1913,82 @@
 		(uuid "7a5b37c8-d674-4926-ac7c-0ede24f9008b")
 	)
 	(junction
+		(at 147.32 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ab74353-2ad1-434d-bc3f-5712730bad4c")
+	)
+	(junction
+		(at 92.71 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96539d44-e215-4e4f-98a5-8c80fe950588")
+	)
+	(junction
 		(at 63.5 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a14d626-2164-410c-b9b7-f66fa21fdb39")
+	)
+	(junction
+		(at 147.32 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8e50a8d-bb2f-428b-92d1-c0c5042e8986")
+	)
+	(junction
+		(at 124.46 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ae3cbe54-6eb3-48fa-997b-07a6a1b28767")
+	)
+	(junction
+		(at 124.46 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4d43fae-f9b5-42ca-8726-3e2baff628ad")
+	)
+	(junction
+		(at 201.93 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba3c6802-3f20-46f0-829b-9af45751cd52")
+	)
+	(junction
+		(at 115.57 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf0d53a4-d588-4710-9f0b-bd42b2ee09c7")
+	)
+	(junction
+		(at 115.57 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5ee2f46-7d53-4da0-b973-e5e06a525bb4")
+	)
+	(junction
+		(at 115.57 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2d060b8-fada-427c-b44f-7a57809036b4")
+	)
+	(junction
+		(at 92.71 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e715d308-491c-49d0-bd18-7c83856abc3a")
+	)
+	(junction
+		(at 124.46 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec16480b-0e0b-4dd7-8518-d8ba17bf259f")
+	)
+	(junction
+		(at 92.71 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0946b5e-2307-41d1-aaad-84c0f34a8389")
 	)
 	(junction
 		(at 173.99 91.44)
@@ -1513,6 +2024,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 33.02) (xy 147.32 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09b6166d-6c1a-4304-ab29-eb3700e723be")
+	)
+	(wire
+		(pts
 			(xy 187.96 109.22) (xy 187.96 111.76)
 		)
 		(stroke
@@ -1543,6 +2064,56 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 40.64) (xy 146.05 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17cd3c87-963e-4f0f-98e1-11bd32b47b24")
+	)
+	(wire
+		(pts
+			(xy 92.71 35.56) (xy 93.98 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b9f2b97-e61c-44b4-b132-a5a0da71656d")
+	)
+	(wire
+		(pts
+			(xy 115.57 40.64) (xy 114.3 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dc1a2a4-cba8-4c6f-89b3-c5740fe7d9da")
+	)
+	(wire
+		(pts
+			(xy 115.57 38.1) (xy 115.57 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "281dde04-551f-4024-b5f0-359076b793d9")
+	)
+	(wire
+		(pts
+			(xy 147.32 49.53) (xy 124.46 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29df0989-2bd3-449b-a92d-24248cb2aa2e")
+	)
+	(wire
+		(pts
 			(xy 187.96 91.44) (xy 201.93 91.44)
 		)
 		(stroke
@@ -1553,6 +2124,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 40.64) (xy 92.71 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31b27443-d92e-4ba5-9151-e078bf94ddfb")
+	)
+	(wire
+		(pts
 			(xy 128.27 119.38) (xy 128.27 123.19)
 		)
 		(stroke
@@ -1560,6 +2141,16 @@
 			(type default)
 		)
 		(uuid "31ccd8ca-cfb3-4771-aae0-c01835602969")
+	)
+	(wire
+		(pts
+			(xy 124.46 33.02) (xy 125.73 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38792065-39f4-4d36-84da-2e832dca7b44")
 	)
 	(wire
 		(pts
@@ -1583,7 +2174,17 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 91.44) (xy 237.49 91.44)
+			(xy 114.3 38.1) (xy 115.57 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4badbc9a-c76a-46df-941e-18712778f650")
+	)
+	(wire
+		(pts
+			(xy 227.33 91.44) (xy 238.76 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1603,6 +2204,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 33.02) (xy 92.71 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "523d4a19-d172-4bc6-a585-7d8536e0b8f0")
+	)
+	(wire
+		(pts
 			(xy 201.93 91.44) (xy 201.93 100.33)
 		)
 		(stroke
@@ -1610,6 +2221,16 @@
 			(type default)
 		)
 		(uuid "5aaac35f-9c0e-499b-8881-78db32e37b9c")
+	)
+	(wire
+		(pts
+			(xy 85.09 91.44) (xy 88.9 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "611acc74-8023-4236-bc04-24ad0501fab5")
 	)
 	(wire
 		(pts
@@ -1623,6 +2244,56 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 38.1) (xy 147.32 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68aa25f9-ed87-4abf-9279-6b42a8eb318d")
+	)
+	(wire
+		(pts
+			(xy 115.57 35.56) (xy 115.57 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "698146e1-af49-4c3e-876a-d021d2cc2e8d")
+	)
+	(wire
+		(pts
+			(xy 93.98 33.02) (xy 92.71 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a7c62c2-011e-4b8f-898a-93df926f6a68")
+	)
+	(wire
+		(pts
+			(xy 92.71 49.53) (xy 92.71 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6abdca1c-dc02-431f-8e0d-482dc4c34d19")
+	)
+	(wire
+		(pts
+			(xy 115.57 33.02) (xy 115.57 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c8ed0a0-ce34-4421-89ff-cd6ef3e76780")
+	)
+	(wire
+		(pts
 			(xy 173.99 101.6) (xy 172.72 101.6)
 		)
 		(stroke
@@ -1630,6 +2301,16 @@
 			(type default)
 		)
 		(uuid "734674fa-e510-423d-9c81-bf49d6cb45be")
+	)
+	(wire
+		(pts
+			(xy 124.46 38.1) (xy 125.73 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74ad4f66-631a-48ad-922c-b46355d218f2")
 	)
 	(wire
 		(pts
@@ -1643,6 +2324,26 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 40.64) (xy 124.46 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7894bca6-5b00-49d0-8d27-f74ed326375f")
+	)
+	(wire
+		(pts
+			(xy 146.05 38.1) (xy 147.32 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bb25de8-4ca9-4211-a538-05423462f286")
+	)
+	(wire
+		(pts
 			(xy 63.5 100.33) (xy 63.5 101.6)
 		)
 		(stroke
@@ -1653,13 +2354,13 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 91.44) (xy 215.9 91.44)
+			(xy 115.57 49.53) (xy 92.71 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f31368b-59a9-4d9a-b932-666eed92b507")
+		(uuid "7ef64267-9282-4808-a63b-56856dad22f2")
 	)
 	(wire
 		(pts
@@ -1703,6 +2404,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 38.1) (xy 124.46 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90cf72a5-7e0f-48ed-882e-7cfe2f8033ce")
+	)
+	(wire
+		(pts
 			(xy 85.09 93.98) (xy 85.09 91.44)
 		)
 		(stroke
@@ -1723,6 +2434,26 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 35.56) (xy 115.57 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98c284fe-00b0-4f22-b32b-b21d21a4a22d")
+	)
+	(wire
+		(pts
+			(xy 124.46 40.64) (xy 124.46 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9945c743-37be-44f9-a2f6-0a34df5483c0")
+	)
+	(wire
+		(pts
 			(xy 157.48 102.87) (xy 157.48 101.6)
 		)
 		(stroke
@@ -1730,6 +2461,16 @@
 			(type default)
 		)
 		(uuid "9aac4fb9-0c2c-442b-9b11-38915b420ea8")
+	)
+	(wire
+		(pts
+			(xy 114.3 33.02) (xy 115.57 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9af687d5-7b58-405e-aba1-c69159511226")
 	)
 	(wire
 		(pts
@@ -1763,6 +2504,26 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 38.1) (xy 93.98 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3266212-ca52-4536-80d7-d62c3c207b30")
+	)
+	(wire
+		(pts
+			(xy 115.57 40.64) (xy 115.57 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a64d5cd2-d496-45fe-8221-e8b707e95673")
+	)
+	(wire
+		(pts
 			(xy 142.24 101.6) (xy 140.97 101.6)
 		)
 		(stroke
@@ -1770,6 +2531,16 @@
 			(type default)
 		)
 		(uuid "ae3b39c3-0ac0-4046-856e-7660b5510bde")
+	)
+	(wire
+		(pts
+			(xy 146.05 35.56) (xy 147.32 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aea8a15f-a1a8-4402-9728-6299ffd73f08")
 	)
 	(wire
 		(pts
@@ -1813,16 +2584,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 91.44) (xy 88.9 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b939aad9-797a-4ddc-90e8-2cab730441e2")
-	)
-	(wire
-		(pts
 			(xy 63.5 87.63) (xy 63.5 91.44)
 		)
 		(stroke
@@ -1843,13 +2604,63 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 91.44) (xy 237.49 87.63)
+			(xy 147.32 35.56) (xy 147.32 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c185bdc1-465b-45f2-a9d2-ebb1cd90e346")
+	)
+	(wire
+		(pts
+			(xy 124.46 35.56) (xy 124.46 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ab2069-1e57-40df-aa69-d7c58c5af58f")
+	)
+	(wire
+		(pts
+			(xy 124.46 40.64) (xy 125.73 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ea3606-2640-4e08-b7ea-c72d12e38371")
+	)
+	(wire
+		(pts
+			(xy 201.93 91.44) (xy 217.17 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9807cc9-a256-4ccb-b164-44ec14f437ad")
+	)
+	(wire
+		(pts
+			(xy 238.76 91.44) (xy 238.76 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c9c85cbe-6704-4592-80fa-b4ac7b2172b9")
+	)
+	(wire
+		(pts
+			(xy 92.71 38.1) (xy 92.71 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9df812a-8461-42bf-9adf-c0f5c3d1be8b")
 	)
 	(wire
 		(pts
@@ -1873,6 +2684,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 35.56) (xy 92.71 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d79d3c6d-8335-4a8a-b83c-565de336d504")
+	)
+	(wire
+		(pts
 			(xy 187.96 123.19) (xy 187.96 124.46)
 		)
 		(stroke
@@ -1890,6 +2711,16 @@
 			(type default)
 		)
 		(uuid "d9e60af4-0c48-49cb-9016-96347cd31ad4")
+	)
+	(wire
+		(pts
+			(xy 92.71 40.64) (xy 93.98 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddb3a732-e343-4800-b45f-7d894b4fbb7a")
 	)
 	(wire
 		(pts
@@ -1933,6 +2764,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 40.64) (xy 147.32 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e590a84c-ef51-4033-8da2-3d812512c3ef")
+	)
+	(wire
+		(pts
 			(xy 88.9 93.98) (xy 85.09 93.98)
 		)
 		(stroke
@@ -1963,6 +2804,26 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 53.34) (xy 124.46 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0f5a936-2d76-4c24-bcda-e29afca8c4c2")
+	)
+	(wire
+		(pts
+			(xy 124.46 35.56) (xy 125.73 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6a037d4-c06f-44f7-be68-d46b659aafde")
+	)
+	(wire
+		(pts
 			(xy 63.5 91.44) (xy 63.5 92.71)
 		)
 		(stroke
@@ -1971,177 +2832,203 @@
 		)
 		(uuid "f6d3df07-8a87-48e2-a30d-c1efd3018d48")
 	)
-	(label "V_{OUT} = 1.2V * (1 + (R_{FB1} {slash} R_{FB2}))"
-		(at 220.98 78.74 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
-			)
-			(justify left bottom)
+	(wire
+		(pts
+			(xy 146.05 33.02) (xy 147.32 33.02)
 		)
-		(uuid "0451e736-d0cc-406e-a773-a36b210ae74b")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd3f32ca-a52b-4520-8cad-310a35e934ea")
 	)
-	(label "R_{FB2} = (1.2V {slash} (V_{OUT} - 1.2V)) * R_{FB1}"
-		(at 170.18 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+	(symbol
+		(lib_id "HELIX3:74650094R")
+		(at 93.98 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d89e7b3-a6c6-4ecf-9d8d-9a0d5f5693be")
+		(property "Reference" "J1"
+			(at 104.14 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
-			(justify left bottom)
 		)
-		(uuid "120f34f1-a0ee-4973-8d09-95e567f47275")
-	)
-	(label "C_{B}"
-		(at 158.75 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Value" "74650094R"
+			(at 104.14 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
-			(justify left bottom)
 		)
-		(uuid "2626b1ae-c20e-466d-bf10-a58cccf66f44")
-	)
-	(label "t_{ON,NOM} = V_{OUT} {slash} (V_{IN,NOM} * F_{SW})"
-		(at 134.62 120.65 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Footprint" "HELIX3:74650094R"
+			(at 110.49 127.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "2bd2017b-b4fe-4330-9869-f3370818163d")
-	)
-	(label "C_{B} >= t_{TR,settling} {slash} (3 * R_{FB1})"
-		(at 134.62 133.35 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/74650094R.pdf"
+			(at 110.49 227.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "4854d57a-958f-40c0-944f-686b1d32d7de")
-	)
-	(label "F_{SW}(kHz) = (V_{OUT}(V) * 2500) {slash} R_{ON}(kΩ)"
-		(at 31.75 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Description" "WP-THRBU REDCUBE Bush, THR_open height: 3.5mm, total height: 6mm, thread: M4 x 3mm, raster: 4.435mm, on Reel, with Polyimide Tape, REDCUBE THR;  M4, thr 3.0mm"
+			(at 93.98 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
-			(justify left bottom)
 		)
-		(uuid "8c91099c-3cc6-4b36-aab1-0a02adf8ea19")
-	)
-	(label "R_{A}C_{A} >= ((V_{IN,NOM} - V_{OUT}) * t_{ON,NOM}) {slash} 20mV"
-		(at 134.62 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Height" "3.5"
+			(at 110.49 427.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "8ea63af7-d5f5-48f8-8982-1fa194bddc61")
-	)
-	(label "C_{A} >= 10 {slash} (F_{SW}(Hz) * (R_{FB1} || R_{FB2}))"
-		(at 134.62 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 110.49 527.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "b7ffa582-096b-4942-bf07-820f1d210b70")
-	)
-	(label "R_{FB2}"
-		(at 189.23 124.46 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Manufacturer_Part_Number" "74650094R"
+			(at 110.49 627.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "cc3e9536-a7e0-4760-b7e3-2bd46a7eb7a6")
-	)
-	(label "R_{FB1} || R_{FB2} = (R_{FB1} * 100) {slash} (R_{FB2} + 100)"
-		(at 134.62 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Mouser Part Number" "710-74650094R"
+			(at 110.49 727.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "e100b15e-1dd5-4e6c-9ac6-74c938e0995d")
-	)
-	(label "C_{A}"
-		(at 171.45 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74650094R?qs=lBTPRtX1sU%2FRe8nM1nh3gg%3D%3D"
+			(at 110.49 827.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "e49df05c-d4a9-4aaa-bd15-3334f8845827")
-	)
-	(label "R_{FB1}"
-		(at 189.23 101.6 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Arrow Part Number" ""
+			(at 110.49 927.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "f029831a-363b-4e5f-b092-325b93a56b31")
-	)
-	(label "R_{ON}"
-		(at 74.93 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(property "Arrow Price/Stock" ""
+			(at 110.49 1027.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
 			)
-			(justify left bottom)
 		)
-		(uuid "f056aed9-af3b-411b-95cd-11a5d1ca917c")
-	)
-	(label "R_{A}"
-		(at 149.86 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(color 0 0 194 1)
+		(pin "7"
+			(uuid "ff925fb2-d12b-4da1-95d0-dff921512e4e")
+		)
+		(pin "1"
+			(uuid "aafa1cfe-a927-4503-9122-461882c6cf6e")
+		)
+		(pin "4"
+			(uuid "4fd4f432-5766-4274-b1ef-ff48f8ec8147")
+		)
+		(pin "5"
+			(uuid "a02c2143-bc86-4237-ab9f-f063d00a0968")
+		)
+		(pin "2"
+			(uuid "f9ed3ed0-4de4-4b19-a01a-fb680458e2cb")
+		)
+		(pin "3"
+			(uuid "a815a2da-a508-448e-ab14-49abeaa873f3")
+		)
+		(pin "6"
+			(uuid "3a3ec34a-02ff-4e35-91f2-3d93eb837790")
+		)
+		(pin "8"
+			(uuid "904a8f2a-e1a7-470f-a639-4845ca5dd098")
+		)
+		(instances
+			(project "HELIX3"
+				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
+					(reference "J1")
+					(unit 1)
+				)
 			)
-			(justify left bottom)
 		)
-		(uuid "f0a7a329-10a8-4a35-8c1a-dfb5339f3ccb")
 	)
 	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
-		(at 220.98 91.44 0)
+		(at 222.25 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2150,8 +3037,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e549fa5-6dc2-4db0-8705-db5f22e40f6d")
-		(property "Reference" "JP2"
-			(at 220.98 88.138 0)
+		(property "Reference" "JP1"
+			(at 222.25 88.138 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2161,7 +3048,7 @@
 			)
 		)
 		(property "Value" "Jumper_2_Open"
-			(at 220.98 93.472 0)
+			(at 222.25 93.472 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2171,7 +3058,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 220.98 91.44 0)
+			(at 222.25 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2182,7 +3069,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 91.44 0)
+			(at 222.25 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2193,7 +3080,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, open"
-			(at 220.98 91.44 0)
+			(at 222.25 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +3099,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "JP2")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -2229,7 +3116,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "29731bd8-4f10-4e6a-8bad-c8cc0b129456")
-		(property "Reference" "R58"
+		(property "Reference" "R2"
 			(at 75.438 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2293,7 +3180,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R58")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -2310,7 +3197,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32d6a0c0-4501-494e-ba31-0fb38dba488a")
-		(property "Reference" "C33"
+		(property "Reference" "C4"
 			(at 166.878 97.536 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2374,7 +3261,85 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "C33")
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 92.71 53.34 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3bbbd86a-e02b-4cd1-8af8-08a5da6841e7")
+		(property "Reference" "#PWR04"
+			(at 92.71 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+VBAT"
+			(at 92.71 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 92.71 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "228e02f5-8682-4cf1-afec-49c353cb6a4e")
+		)
+		(instances
+			(project "HELIX3"
+				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2391,7 +3356,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "474606a0-106b-45a3-9a00-4f52b05c2017")
-		(property "Reference" "R14"
+		(property "Reference" "R7"
 			(at 203.708 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2455,7 +3420,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R14")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -2472,7 +3437,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5727b762-0f62-4c1d-a658-97c96748e553")
-		(property "Reference" "C34"
+		(property "Reference" "C3"
 			(at 160.528 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2494,7 +3459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 158.4452 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -2536,7 +3501,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "C34")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -2553,7 +3518,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6af6a238-27d2-4ac2-af00-fb78e2816cfa")
-		(property "Reference" "C32"
+		(property "Reference" "C2"
 			(at 131.318 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2617,7 +3582,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "C32")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -2634,7 +3599,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d65ad5e-543e-440f-9138-e52fb398b985")
-		(property "Reference" "R2"
+		(property "Reference" "R4"
 			(at 189.738 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2698,7 +3663,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -2715,7 +3680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7e15875c-2678-4567-99fe-db1916bb3309")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 157.48 88.392 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2863,7 +3828,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "L2")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -2880,7 +3845,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "888a0036-e841-4d74-bd70-4e669d5e0fd9")
-		(property "Reference" "R13"
+		(property "Reference" "R3"
 			(at 143.764 98.806 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2944,7 +3909,269 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R13")
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "HELIX3:74650094R")
+		(at 125.73 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8bfd2e99-0532-4925-8795-22e7f2816060")
+		(property "Reference" "J2"
+			(at 135.89 25.4 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "74650094R"
+			(at 135.89 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "HELIX3:74650094R"
+			(at 142.24 127.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/catalog/datasheet/74650094R.pdf"
+			(at 142.24 227.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Description" "WP-THRBU REDCUBE Bush, THR_open height: 3.5mm, total height: 6mm, thread: M4 x 3mm, raster: 4.435mm, on Reel, with Polyimide Tape, REDCUBE THR;  M4, thr 3.0mm"
+			(at 125.73 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "3.5"
+			(at 142.24 427.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 142.24 527.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Manufacturer_Part_Number" "74650094R"
+			(at 142.24 627.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Part Number" "710-74650094R"
+			(at 142.24 727.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/74650094R?qs=lBTPRtX1sU%2FRe8nM1nh3gg%3D%3D"
+			(at 142.24 827.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 142.24 927.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 142.24 1027.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "7"
+			(uuid "fd3128a6-9439-4623-ac4f-2b5d75d969a0")
+		)
+		(pin "1"
+			(uuid "b5f1c729-bae8-4254-81a4-c52c5b343cf0")
+		)
+		(pin "4"
+			(uuid "d3be4a45-ec4d-4501-8257-d055c4bd9634")
+		)
+		(pin "5"
+			(uuid "5ce89a81-dd28-4afd-bacd-c6419d67483b")
+		)
+		(pin "2"
+			(uuid "92700d1e-77a6-4334-bd8d-68ec88750dd9")
+		)
+		(pin "3"
+			(uuid "775fbc06-c4dd-41a8-b83a-f7c2c82556f7")
+		)
+		(pin "6"
+			(uuid "2463379b-0d0d-44bd-8fd9-001345c0d797")
+		)
+		(pin "8"
+			(uuid "20fbc5b1-5236-4082-a837-f36eae7d4b43")
+		)
+		(instances
+			(project "HELIX3"
+				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 124.46 53.34 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a809f2d8-efc7-4557-a074-1771543b13c4")
+		(property "Reference" "#PWR05"
+			(at 124.46 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-VBAT"
+			(at 124.46 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 124.46 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6a87ae75-b3b6-4cc3-b4b0-2f2c7504c9b8")
+		)
+		(instances
+			(project "HELIX3"
+				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -2961,7 +4188,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af00250c-7992-4626-83ae-11216d2688a4")
-		(property "Reference" "R12"
+		(property "Reference" "R1"
 			(at 75.438 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3025,7 +4252,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R12")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -3033,7 +4260,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 237.49 87.63 0)
+		(at 238.76 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3043,8 +4270,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2bf9f90-9197-4733-b238-7e21a24a3b4d")
-		(property "Reference" "#PWR023"
-			(at 237.49 91.44 0)
+		(property "Reference" "#PWR08"
+			(at 238.76 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3055,7 +4282,7 @@
 			)
 		)
 		(property "Value" "DVCC_3V3"
-			(at 237.49 82.55 0)
+			(at 238.76 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3065,7 +4292,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 87.63 0)
+			(at 238.76 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3076,7 +4303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 87.63 0)
+			(at 238.76 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3087,7 +4314,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 237.49 87.63 0)
+			(at 238.76 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3103,7 +4330,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR023")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -3214,7 +4441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b981e6ae-475f-427f-b953-808270708480")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR06"
 			(at 128.27 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3274,7 +4501,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR043")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3292,7 +4519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2efad89-faa9-4640-a029-8da9922d2a11")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR07"
 			(at 187.96 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -3352,7 +4579,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR045")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -3370,7 +4597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1bbfb2a-63dd-46e8-abb2-efc9dc61919a")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR02"
 			(at 63.5 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3430,7 +4657,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR042")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3448,7 +4675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d99ddaff-1e66-4de5-ba2e-7313e001bf3d")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR03"
 			(at 73.66 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -3508,7 +4735,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR044")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3525,7 +4752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbe2d6dd-dd4c-4404-af5a-b3371d62fd76")
-		(property "Reference" "R3"
+		(property "Reference" "R6"
 			(at 189.738 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3589,7 +4816,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R3")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -3607,7 +4834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5040b65-0b46-48ed-8ae7-be28924a7133")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR01"
 			(at 63.5 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3667,7 +4894,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "#PWR041")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3684,7 +4911,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f53528ac-bccb-4bde-b12d-cb8d8a8fa866")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 95.758 87.122 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3769,7 +4996,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -3786,7 +5013,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f84540e7-21d9-413a-8690-472651e36e99")
-		(property "Reference" "C31"
+		(property "Reference" "C1"
 			(at 66.548 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3850,7 +5077,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "C31")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -3867,7 +5094,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fdfed711-62f3-4a9e-9e2d-db8127fc6711")
-		(property "Reference" "R59"
+		(property "Reference" "R5"
 			(at 189.738 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3931,7 +5158,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3/36517f81-2a5e-4778-a8f5-21265b285efc"
-					(reference "R59")
+					(reference "R5")
 					(unit 1)
 				)
 			)

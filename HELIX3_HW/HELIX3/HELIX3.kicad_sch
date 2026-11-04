@@ -6,52 +6,6 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 25.4 76.2)
-		(size 76.2 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "13085b4e-9de5-4c3b-aa43-edf60370d621")
-		(property "Sheetname" "RGDRV"
-			(at 25.4 75.4884 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "RGDRV.kicad_sch"
-			(at 25.4 89.4846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "HELIX3"
-				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 25.4 25.4)
 		(size 76.2 12.7)
 		(exclude_from_sim no)
@@ -144,7 +98,7 @@
 		)
 	)
 	(sheet
-		(at 25.4 101.6)
+		(at 25.4 76.2)
 		(size 76.2 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -158,9 +112,9 @@
 		(fill
 			(color 0 0 0 0)
 		)
-		(uuid "9649bc84-8b11-4ba5-b657-d965e740f22a")
-		(property "Sheetname" "FGDRV"
-			(at 25.4 100.8884 0)
+		(uuid "c950f6f7-0e69-47c4-a0d3-9c67b068433c")
+		(property "Sheetname" "GDRV"
+			(at 25.4 75.4884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -170,8 +124,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FGDRV.kicad_sch"
-			(at 25.4 114.8846 0)
+		(property "Sheetfile" "GDRV.kicad_sch"
+			(at 25.4 89.4846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -184,7 +138,7 @@
 		(instances
 			(project "HELIX3"
 				(path "/2c025ae3-4e4e-46b1-8e61-725ab6b25cb3"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
